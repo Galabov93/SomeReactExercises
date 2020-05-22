@@ -1,6 +1,6 @@
 Answers to non code related exerices:
 
-#1. Var is reservide keyword so we can't name a variable after it. We get a SyntaxError.
+#1. Var is reserved keyword so we can't name a variable after it. We get a SyntaxError.
 
 #2. We init a string variable. Than call a self invoking a function and change the variable name.
 The result is:
